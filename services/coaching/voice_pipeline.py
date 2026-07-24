@@ -91,4 +91,4 @@ def autoplay_audio(audio_bytes):
     
     st.markdown("<style>[data-testid='stAudio'] {display: none;}</style>", unsafe_allow_html=True)
     
-    st.audio(audio_bytes, format="audio/mp3", autoplay=True)
+    st.audio(audio_bytes, format="audio/mp3",autoplay=True)
