@@ -20,6 +20,19 @@ The application analyzes workout form through a webcam, tracks repetitions and s
 * ⚡ **Interactive Streamlit Web Interface**
 
 ---
+# 📸 Screenshots
+
+### 🔐 Login
+![Login](screenshots/login.png)
+
+### 🏋️ Select Exercise
+![Select Exercise](screenshots/select_exercise.png)
+
+### 🎯 Set Exercise
+![Set Exercise](screenshots/set_exercise.png)
+
+### 🎥 Real-Time Exercise Detection
+![Exercise Detection](screenshots/exercise_detection.png)
 
 # Supported Exercises
 
